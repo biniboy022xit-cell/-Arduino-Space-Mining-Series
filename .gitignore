@@ -1,0 +1,13 @@
+# Ignore Arduino IDE compilation binaries and temporary build files
+*.hex
+*.elf
+*.eep
+*.o
+*.a
+/build/
+/bin/
+
+# Ignore local IDE configurations
+.build/
+.project
+.settings/
