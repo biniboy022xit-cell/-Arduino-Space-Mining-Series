@@ -27,5 +27,14 @@
 
 ## How the Photoresistor Circuit Works
 5V ──┬── Photoresistor ── A0
+|
 │
 └── 10kΩ Resistor ── GND
+
+
+This creates a voltage divider. As light increases, photoresistor resistance decreases, voltage at A0 increases.
+
+## Power Notes
+- Total current draw: ~80mA (all LEDs on white)
+- Safe for USB power
+
