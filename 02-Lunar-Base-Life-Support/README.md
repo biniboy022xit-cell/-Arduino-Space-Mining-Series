@@ -45,7 +45,7 @@ A lunar mining base requires constant environmental monitoring. Temperature swin
 ## Files (Partial - Awaiting Sensor)
 - [planned-code.ino](./planned-code.ino) - Code structure (ready for sensor)
 - [wiring.md](./wiring.md) - Pin mapping (ready)
-- [fried-sensor.jpeg](./fried-sensor.jpeg.mp4) - Will record when sensor arrives
+-  [photos/](./photos/) - fried sensor images
 
 ## Key Skills Demonstrated (Even Without Hardware)
 - Problem diagnosis
