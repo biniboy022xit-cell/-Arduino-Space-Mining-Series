@@ -33,7 +33,7 @@ A mining drone approaching an asteroid needs real-time distance detection to avo
 - [code.ino](./code.ino) - Arduino sketch
 - [wiring.md](./wiring.md) - Pin connections
 - [photos/](./photos/) - Breadboard and demo images
-- [demo.mp4](./demo.mp4) - Video demonstration
+- [demo1.mp4](./demo1.mp4)  and [demo2.mp4](./demo2.mp4) - 2 Video demonstrations
 
 ## Key Learnings
 - Ultrasonic distance measurement using `pulseIn()`
