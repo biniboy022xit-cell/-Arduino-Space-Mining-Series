@@ -28,4 +28,4 @@
 - Total current draw: ~150mA (safe for USB power)
 
 ## Visual Reference
-See `photos/` for wiring photo
+See `photos/` for wiring and monitoring photos
