@@ -41,7 +41,7 @@ This simulator can represent:
 ## Files
 - [code.ino](./code.ino) - Arduino sketch
 - [wiring.md](./wiring.md) - Pin connections
-- [System-video.mp4](./System-video.mp4) - Demonstration video
+- [System-video1.mp4](./System-video1.mp4) and [System-video2.mp4](./System-video2.mp4) - Demonstration video
 
 ## Key Learnings
 - Push button with internal pull-up (`INPUT_PULLUP`)
