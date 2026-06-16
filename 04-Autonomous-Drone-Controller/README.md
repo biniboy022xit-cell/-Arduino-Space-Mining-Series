@@ -57,7 +57,7 @@ A mining drone navigating an asteroid field must detect and avoid obstacles with
 ## Files
 - [code.ino](./code.ino) - Arduino sketch
 - [wiring.md](./wiring.md) - Pin connections
-- [demo-video.mp4](./demo-video.mp4) - Demonstration video
+- [drone-video.mp4](./drone-video.mp4) - Demonstration video
 
 ## Key Learnings
 - Finite state machine (FSM) design
