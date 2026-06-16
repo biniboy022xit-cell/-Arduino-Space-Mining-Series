@@ -44,7 +44,7 @@ A mining drone operates on battery power. Mission control needs real-time batter
 ## Files
 - [code.ino](./code.ino) - Arduino sketch
 - [wiring.md](./wiring.md) - Pin connections
-- [demo-video.mp4](./demo-video.mp4) - Demonstration video
+- [power-video.mp4](./power-video.mp4) - Demonstration video
 
 ## Key Learnings
 - Analog signal mapping for percentage display
